@@ -1,4 +1,4 @@
-# 🎓 Camila Rocha Eventos — Cerimonial para Formaturas
+# 🎓 Camila Rocha Eventos — Formatura 2027
 
 ![Status](https://img.shields.io/badge/status-ativo-brightgreen)
 ![Ano](https://img.shields.io/badge/formaturas-2027-blue)
