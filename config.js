@@ -7,7 +7,7 @@ const CONFIG = {
     escola: {
         nome: 'Apresentação solenidade de formatura',
         mensagemBoasVindas: `É com imensa satisfação que apresentamos<br />as propostas para Formatura 2027.<br /><br />
-        Nossas ideias foram desenvolvidas com carinho e criatividade para tornar a formatura dos seus alunos ainda mais especial. Você poderá sugerir estilos de fontes, cores e ajustes para que tudo fique do jeito que a escola sempre sonhou. 
+        Nossas ideias foram desenvolvidas com zelo e criatividade para tornar a formatura dos seus alunos ainda mais especial. Você poderá sugerir estilos de fontes, cores e ajustes para que tudo fique do jeito que a escola sempre sonhou. 
         <strong></strong><br /><br />
         Vamos juntos construir um momento inesquecível!`
     },
